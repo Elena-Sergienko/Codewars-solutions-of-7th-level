@@ -1,4 +1,5 @@
 # Codewars-solutions-of-7th-level
 
-Largest pair sum in array.js
-Max diff.js
+Largest pair sum in array
+Max diff
+Row Weights
