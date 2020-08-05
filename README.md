@@ -6,3 +6,4 @@ Row Weights
 Show multiples of 2 numbers within a range
 Find the middle element
 Complete Series
+The Skiponacci Sequence
