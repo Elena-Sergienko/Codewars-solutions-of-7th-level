@@ -10,3 +10,4 @@ The Skiponacci Sequence
 Regex validate PIN code
 Numbers to Letters
 Fix string case
+Number of Decimal Digits
