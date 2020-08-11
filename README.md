@@ -9,3 +9,4 @@ Complete Series
 The Skiponacci Sequence
 Regex validate PIN code
 Numbers to Letters
+Fix string case
