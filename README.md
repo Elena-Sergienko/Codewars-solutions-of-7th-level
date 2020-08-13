@@ -13,3 +13,4 @@ Fix string case
 Number of Decimal Digits
 Santa's Naughty List
 Sort array by string length.js
+Number-Star ladder
