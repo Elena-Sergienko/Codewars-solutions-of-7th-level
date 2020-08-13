@@ -11,3 +11,4 @@ Regex validate PIN code
 Numbers to Letters
 Fix string case
 Number of Decimal Digits
+Santa's Naughty List
