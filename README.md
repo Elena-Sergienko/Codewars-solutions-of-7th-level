@@ -15,3 +15,4 @@ Santa's Naughty List
 Sort array by string length.js
 Number-Star ladder
 Exes and Ohs
+Spacify
