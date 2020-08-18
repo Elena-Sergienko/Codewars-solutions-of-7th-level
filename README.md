@@ -16,3 +16,4 @@ Sort array by string length.js
 Number-Star ladder
 Exes and Ohs
 Spacify
+filterEvenLengthWords
