@@ -12,7 +12,7 @@ Numbers to Letters
 Fix string case
 Number of Decimal Digits
 Santa's Naughty List
-Sort array by string length.js
+Sort array by string length
 Number-Star ladder
 Exes and Ohs
 Spacify
