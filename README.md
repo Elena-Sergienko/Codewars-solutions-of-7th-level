@@ -17,3 +17,4 @@ Number-Star ladder
 Exes and Ohs
 Spacify
 filterEvenLengthWords
+Find the capitals
