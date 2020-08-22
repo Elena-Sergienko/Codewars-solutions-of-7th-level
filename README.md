@@ -18,3 +18,4 @@ Exes and Ohs
 Spacify
 filterEvenLengthWords
 Find the capitals
+Thinking & Testing : Something capitalized
