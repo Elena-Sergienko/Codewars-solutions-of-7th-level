@@ -19,3 +19,4 @@ Spacify
 filterEvenLengthWords
 Find the capitals
 Thinking & Testing : Something capitalized
+Don't give me five!
