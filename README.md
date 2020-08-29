@@ -20,3 +20,4 @@ filterEvenLengthWords
 Find the capitals
 Thinking & Testing : Something capitalized
 Divide and Conquer
+Love vs friendship
