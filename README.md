@@ -1,5 +1,6 @@
 # Codewars-solutions-of-7th-level
 
+## Automorphic Number (Special Numbers Series #6)
 ## Complete Series
 ## Don't give me five!
 ## Largest pair sum in array 
