@@ -3,6 +3,7 @@
 ## Automorphic Number (Special Numbers Series #6)
 ## Bumps in the Road
 ## Complete Series
+## Discover The Original Price
 ## Don't give me five!
 ## Largest pair sum in array 
 ## Max diff
