@@ -3,24 +3,25 @@
 ## Automorphic Number (Special Numbers Series #6)
 ## Bumps in the Road
 ## Complete Series
+## Credit Card Mask
 ## Discover The Original Price
-## Don't give me five!
-## Largest pair sum in array 
-## Max diff
-## Row Weights
-## Show multiples of 2 numbers within a range
-## Find the middle element
-## The Skiponacci Sequence
-## Regex validate PIN code
-## Numbers to Letters
-## Fix string case
-## Number of Decimal Digits
-## Santa's Naughty List
-## Sort array by string length
-## Number-Star ladder
-## Exes and Ohs
-## Spacify filterEvenLengthWords
-##  Find the capitals
-## Thinking & Testing : Something capitalized
 ## Divide and Conquer
+## Don't give me five!
+## Exes and Ohs
+##  Find the capitals
+## Find the middle element
+## Fix string case
+## Largest pair sum in array 
 ## Love vs friendship
+## Max diff
+## Numbers to Letters
+## Number of Decimal Digits
+## Number-Star ladder
+## Regex validate PIN code
+## Row Weights
+## Santa's Naughty List
+## Show multiples of 2 numbers within a range
+## Sort array by string length
+## Spacify filterEvenLengthWords
+## The Skiponacci Sequence
+## Thinking & Testing : Something capitalized
