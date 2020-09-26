@@ -1,3 +1,5 @@
+![codewars](https://user-images.githubusercontent.com/68942106/94330252-aacd6500-ff77-11ea-9185-c090b275b794.png)
+
 # Codewars-solutions-of-7th-level
 
 ## Automorphic Number (Special Numbers Series #6)
