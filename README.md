@@ -10,9 +10,10 @@
 ## Divide and Conquer
 ## Don't give me five!
 ## Exes and Ohs
-##  Find the capitals
+## Find the capitals
 ## Find the middle element
 ## Fix string case
+## Highest and Lowest
 ## Largest pair sum in array 
 ## Love vs friendship
 ## Max diff
