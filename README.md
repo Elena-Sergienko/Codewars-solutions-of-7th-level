@@ -2,6 +2,7 @@
 
 # Codewars-solutions-of-7th-level
 
+## Array element parity
 ## Automorphic Number (Special Numbers Series #6)
 ## Bumps in the Road
 ## Complete Series
