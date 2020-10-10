@@ -14,6 +14,7 @@
 ## Find the capitals
 ## Find the middle element
 ## Fix string case
+## Going to the cinema
 ## Highest and Lowest
 ## Largest pair sum in array 
 ## Love vs friendship
