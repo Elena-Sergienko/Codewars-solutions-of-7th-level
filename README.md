@@ -15,6 +15,7 @@
 ## Find the middle element
 ## Fix string case
 ## Going to the cinema
+## Halving Sum
 ## Highest and Lowest
 ## Largest pair sum in array 
 ## Love vs friendship
