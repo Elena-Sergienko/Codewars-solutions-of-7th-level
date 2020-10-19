@@ -20,6 +20,7 @@
 ## Largest pair sum in array 
 ## Love vs friendship
 ## Max diff
+## Mispelled word
 ## Mumbling
 ## Numbers to Letters
 ## Number of Decimal Digits
