@@ -29,6 +29,7 @@
 ## Regex validate PIN code
 ## Row Weights
 ## Santa's Naughty List
+## Shortest Word
 ## Show multiples of 2 numbers within a range
 ## Sort array by string length
 ## Spacify filterEvenLengthWords
