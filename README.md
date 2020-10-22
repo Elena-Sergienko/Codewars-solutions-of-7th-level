@@ -33,6 +33,7 @@
 ## Show multiples of 2 numbers within a range
 ## Sort array by string length
 ## Spacify filterEvenLengthWords
+## Sum of Odd Cubed Numbers
 ## The Skiponacci Sequence
 ## Thinking & Testing : Something capitalized
 ## Two Oldest Ages
