@@ -34,6 +34,7 @@
 ## Sort array by string length
 ## Spacify filterEvenLengthWords
 ## Sum of Odd Cubed Numbers
+## Sum of two lowest positive integers
 ## The Skiponacci Sequence
 ## Thinking & Testing : Something capitalized
 ## Two Oldest Ages
