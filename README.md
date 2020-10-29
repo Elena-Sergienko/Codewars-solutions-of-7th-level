@@ -15,6 +15,7 @@
 ## Find the capitals
 ## Find the middle element
 ## Fix string case
+## Form The Minimum
 ## Going to the cinema
 ## Halving Sum
 ## Highest and Lowest
