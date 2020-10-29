@@ -32,6 +32,7 @@
 ## Santa's Naughty List
 ## Shortest Word
 ## Show multiples of 2 numbers within a range
+## Sorting Arrays
 ## Sort array by string length
 ## Spacify filterEvenLengthWords
 ## Sum of Odd Cubed Numbers
