@@ -35,6 +35,7 @@
 ## Show multiples of 2 numbers within a range
 ## Sorting Arrays
 ## Sort array by string length
+## Sort Numbers
 ## Spacify filterEvenLengthWords
 ## Sum of Odd Cubed Numbers
 ## Sum of two lowest positive integers
