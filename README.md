@@ -30,8 +30,8 @@
 ## Regex validate PIN code
 ## Round up to the next multiple of 5
 ## Row Weights
-## Santa's Naughty List
 ## Shortest Word
+## Santa's Naughty List
 ## Show multiples of 2 numbers within a range
 ## Sorting Arrays
 ## Sort array by string length
