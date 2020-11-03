@@ -23,6 +23,7 @@
 ## Largest pair sum in array 
 ## Love vs friendship
 ## Max diff
+## Minimize Sum Of Array (Array Series #1)
 ## Mispelled word
 ## Mumbling
 ## Numbers to Letters
