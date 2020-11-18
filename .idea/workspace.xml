@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="554d7f46-13dd-4ad9-8926-8c08e48ecefb" name="Default Changelist" comment="Added Max-min arrays">
+      <change afterPath="$PROJECT_DIR$/.idea/Codewars-solutions-of-7th-level.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="Minimize-Sum-Of-Array" />
+      </map>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1iRn0BQY03voSOCwafwxZdlLKaA" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="554d7f46-13dd-4ad9-8926-8c08e48ecefb" name="Default Changelist" comment="" />
+      <created>1601879046250</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1601879046250</updated>
+      <workItem from="1601879047324" duration="251000" />
+      <workItem from="1602047569520" duration="649000" />
+      <workItem from="1602124605425" duration="374000" />
+      <workItem from="1602225212288" duration="377000" />
+      <workItem from="1602306215866" duration="569000" />
+      <workItem from="1602354596707" duration="513000" />
+      <workItem from="1602402045227" duration="11000" />
+      <workItem from="1603083219714" duration="327000" />
+      <workItem from="1603172091209" duration="591000" />
+      <workItem from="1603245052828" duration="418000" />
+      <workItem from="1603340134817" duration="292000" />
+      <workItem from="1603427821644" duration="255000" />
+      <workItem from="1603508790315" duration="9000" />
+      <workItem from="1603691639918" duration="380000" />
+      <workItem from="1603823180423" duration="11000" />
+      <workItem from="1603830810127" duration="243000" />
+      <workItem from="1603852277268" duration="13000" />
+      <workItem from="1603943631154" duration="364000" />
+      <workItem from="1604007040124" duration="270000" />
+      <workItem from="1604076613345" duration="31000" />
+      <workItem from="1604127405682" duration="700000" />
+      <workItem from="1604252542129" duration="326000" />
+      <workItem from="1604379450353" duration="1000000" />
+      <workItem from="1604542471110" duration="1385000" />
+    </task>
+    <task id="LOCAL-00001" summary="Added Two Oldest Ages">
+      <created>1602047765917</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1602047765917</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Added Two Oldest Ages">
+      <created>1602048065024</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1602048065024</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Added Array element parity">
+      <created>1602124908536</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1602124908536</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Updt README.md">
+      <created>1602124957765</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1602124957765</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Added Mumbling">
+      <created>1602225458490</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1602225458490</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Added Going to the cinema">
+      <created>1602306452700</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1602306452700</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Added Halving Sum">
+      <created>1602354855488</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1602354855488</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Added Mispelled word">
+      <created>1603083321623</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1603083321623</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Added Descending Order">
+      <created>1603172421358</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1603172421358</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Added Shortest Word">
+      <created>1603245272354</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1603245272354</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Added Sum of Odd Cubed Numbers">
+      <created>1603340339856</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1603340339856</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Added Sum of two lowest positive integers">
+      <created>1603427992910</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1603427992910</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Added Round up to the next multiple of 5">
+      <created>1603691918185</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1603691918185</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Added Round up to the next multiple of 5">
+      <created>1603691953878</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1603691953878</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Added second solution for Highest and Lowest">
+      <created>1603830981225</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1603830981225</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Added Sorting Arrays">
+      <created>1603943841900</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1603943841900</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Added Form The Minimum">
+      <created>1604007195472</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1604007195472</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Added Sort Numbers">
+      <created>1604127484284</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1604127484284</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Sort Numbers - added information about problem">
+      <created>1604127719403</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1604127719403</updated>
+    </task>
+    <task id="LOCAL-00020" summary="Added Anagram Detection">
+      <created>1604252783994</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1604252783994</updated>
+    </task>
+    <task id="LOCAL-00021" summary="Added Minimize Sum Of Array (Array Series #1)">
+      <created>1604379654336</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1604379654336</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Added Max-min arrays">
+      <created>1604542736513</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1604542736513</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Added Two Oldest Ages" />
+    <MESSAGE value="Added Array element parity" />
+    <MESSAGE value="Updt README.md" />
+    <MESSAGE value="Added Mumbling" />
+    <MESSAGE value="Added Going to the cinema" />
+    <MESSAGE value="Added Halving Sum" />
+    <MESSAGE value="Added Mispelled word" />
+    <MESSAGE value="Added Descending Order" />
+    <MESSAGE value="Added Shortest Word" />
+    <MESSAGE value="Added Sum of Odd Cubed Numbers" />
+    <MESSAGE value="Added Sum of two lowest positive integers" />
+    <MESSAGE value="Added Round up to the next multiple of 5" />
+    <MESSAGE value="Added second solution for Highest and Lowest" />
+    <MESSAGE value="Added Sorting Arrays" />
+    <MESSAGE value="Added Form The Minimum" />
+    <MESSAGE value="Added Sort Numbers" />
+    <MESSAGE value="Sort Numbers - added information about problem" />
+    <MESSAGE value="Added Anagram Detection" />
+    <MESSAGE value="Added Minimize Sum Of Array (Array Series #1)" />
+    <MESSAGE value="Added Max-min arrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Max-min arrays" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="461" y="165" key="SettingsEditor" timestamp="1603171481227">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1603171481227" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1604379659296">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604252789269" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604379659296" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1604542483340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604542483340" />
+    <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604380692193" />
+  </component>
+</project>
