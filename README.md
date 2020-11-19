@@ -7,6 +7,7 @@
 ## Automorphic Number (Special Numbers Series #6)
 ## Bumps in the Road
 ## Complete Series
+## Complete The Pattern #2
 ## Credit Card Mask
 ## Descending Order
 ## Discover The Original Price
