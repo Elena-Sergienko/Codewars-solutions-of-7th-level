@@ -13,6 +13,7 @@
 ## Discover The Original Price
 ## Divide and Conquer
 ## Don't give me five!
+## Dominant array elements
 ## Exes and Ohs
 ## Find the capitals
 ## Find the middle element
