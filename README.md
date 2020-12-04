@@ -40,6 +40,7 @@
 ## Santa's Naughty List
 ## Show multiples of 2 numbers within a range
 ## Sorting Arrays
+## Sort Santa's Reindeer
 ## Sort array by string length
 ## Sort Numbers
 ## Spacify filterEvenLengthWords
