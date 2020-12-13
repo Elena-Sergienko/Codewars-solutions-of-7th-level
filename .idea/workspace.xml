@@ -19,7 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="554d7f46-13dd-4ad9-8926-8c08e48ecefb" name="Default Changelist" comment="Updated Ones and Zeros" />
+    <list default="true" id="554d7f46-13dd-4ad9-8926-8c08e48ecefb" name="Default Changelist" comment="Updated Ones and Zeros">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,6 +91,8 @@
       <workItem from="1605926936168" duration="9000" />
       <workItem from="1606202497118" duration="194000" />
       <workItem from="1606887203714" duration="233000" />
+      <workItem from="1607139632241" duration="49000" />
+      <workItem from="1607397196939" duration="610000" />
     </task>
     <task id="LOCAL-00001" summary="Added Two Oldest Ages">
       <created>1602047765917</created>
