@@ -16,6 +16,7 @@
 ## Dominant array elements
 ## Exes and Ohs
 ## Find the capitals
+## Find the lucky numbers
 ## Find the middle element
 ## Fix string case
 ## Form The Minimum
