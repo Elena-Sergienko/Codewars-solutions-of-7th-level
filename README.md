@@ -6,6 +6,7 @@
 ## Array element parity
 ## Automorphic Number (Special Numbers Series #6)
 ## Bumps in the Road
+## Complementary DNA
 ## Complete Series
 ## Complete The Pattern #2
 ## Credit Card Mask
