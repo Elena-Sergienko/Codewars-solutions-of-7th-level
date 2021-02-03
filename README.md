@@ -47,6 +47,7 @@
 ## Sort array by string length
 ## Sort Numbers
 ## Spacify filterEvenLengthWords
+## Square Every Digit
 ## Sum of Odd Cubed Numbers
 ## Sum of two lowest positive integers
 ## The Skiponacci Sequence
