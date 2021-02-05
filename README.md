@@ -36,6 +36,7 @@
 ## Number of Decimal Digits
 ## Number-Star ladder
 ## Ones and Zeros
+## Power of two
 ## Regex validate PIN code
 ## Round up to the next multiple of 5
 ## Row Weights
