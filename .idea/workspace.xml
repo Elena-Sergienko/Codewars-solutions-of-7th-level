@@ -43,7 +43,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Power-of-two" />
+        <entry key="$PROJECT_DIR$" value="Return-the-first-M-multiples-of-N" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -327,15 +327,15 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="184" y="86" key="MergeDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611903962398" />
-    <state x="747" y="236" key="VCS.ChangeListViewerDialog" timestamp="1611903902350">
+    <state x="747" y="236" key="VCS.ChangeListViewerDialog" timestamp="1612592834140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="747" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1611903902350" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612424116098">
+    <state x="747" y="236" key="VCS.ChangeListViewerDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1612592834140" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1612592746030">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040/1920.0.1920.1040@0.0.1920.1040" timestamp="1604252789269" />
-    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612424116098" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1612592746030" />
     <state x="777" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1611903969076">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
