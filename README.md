@@ -49,6 +49,7 @@
 ## Sort array by string length
 ## Sort Numbers
 ## Spacify filterEvenLengthWords
+## sPoNgEbOb MeMe
 ## Square Every Digit
 ## Sum of Odd Cubed Numbers
 ## Sum of two lowest positive integers
