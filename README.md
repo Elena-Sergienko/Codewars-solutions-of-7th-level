@@ -16,6 +16,7 @@
 ## Don't give me five!
 ## Dominant array elements
 ## Exes and Ohs
+## Filter Coffee
 ## Find the capitals
 ## Find the lucky numbers
 ## Find the middle element
