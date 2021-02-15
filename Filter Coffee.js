@@ -14,3 +14,15 @@
 function search(budget, prices) {
     return prices.sort((a,b) => a - b).filter(el => el <= budget).join()
 }
+
+// ---------------------------------------------------------------------------------
+
+function search(budget, prices) {
+    let arr = [];
+    for (let i = 0; i < prices.length; i++){
+        if(prices[i] <= budget){
+            arr.push(prices[i]);
+        }
+    }
+    return arr.sort((a, b) => a - b).join();
+}
