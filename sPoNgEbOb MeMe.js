@@ -17,3 +17,23 @@ function spongeMeme(str) {
     }
     return res;
 }
+
+// -------------------------------------------------------
+
+function spongeMeme(sentence) {
+    let arrUp = [];
+    let string = '';
+    let arrLow = [];
+    let leter = '';
+    let arr = sentence.split();
+    for(let i = 0; i < arr.length; i++){
+        for (let j = 0; j<arr[i].length; j++){
+            if (j % 2 === 0){
+                string = string + arr[i][j].toUpperCase();
+            } else {
+                string = string + arr[i][j].toLowerCase();
+            }
+        }
+    }
+    return string;
+}
