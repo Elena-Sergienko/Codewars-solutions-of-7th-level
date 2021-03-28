@@ -39,6 +39,7 @@
 ## Ones and Zeros
 ## Power of two
 ## Regex validate PIN code
+## Replace all items
 ## Return the first M multiples of N
 ## Round up to the next multiple of 5
 ## Row Weights
