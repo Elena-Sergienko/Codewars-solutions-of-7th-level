@@ -9,3 +9,17 @@
 function replaceAll(seq, f, r) {
     return typeof(seq) == "string" ? [...seq].map(el => el === f ? el = r : el).join("") : seq.map(el => el === f ? el = r : el);
 }
+
+//-----------------------------------------------------------------------------------------------------------------
+
+function replaceAll(seq, find, r) {
+    if(Array.isArray(seq)){
+        return seq.map(el => el === find ? el = r : el);
+    } else if (typeof(seq) == "string"){
+        let res = ''
+        for(let i = 0; i < seq.length; i++){
+            seq[i] === find? res += r : res += seq[i];
+        }
+        return res;
+    }
+}
