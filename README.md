@@ -9,6 +9,7 @@
 ## Complementary DNA
 ## Complete Series
 ## Complete The Pattern #2
+## Consecutive items
 ## Credit Card Mask
 ## Descending Order
 ## Discover The Original Price
