@@ -19,6 +19,7 @@
 ## Exes and Ohs
 ## Filter Coffee
 ## Find the capitals
+## Find The Duplicated Number in a Consecutive Unsorted List
 ## Find the lucky numbers
 ## Find the middle element
 ## Fix string case
