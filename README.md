@@ -60,6 +60,7 @@
 ## Sum of two lowest positive integers
 ## The Skiponacci Sequence
 ## Thinking & Testing : Something capitalized
+## Train to remove duplicates from an array with filter()
 ## Two Oldest Ages
 ## Two to One
 ## Unscrambled eggs
