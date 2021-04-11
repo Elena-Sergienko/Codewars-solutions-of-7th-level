@@ -31,3 +31,22 @@ function completeSeries(arr) {
     }
     return res;
 }
+
+// -------------------------------------------------------------------------------
+
+function completeSeries(arr) {
+    let res = [];
+    let s = arr.sort((a, b) => a - b);
+
+    for(let i = 0; i <= s[s.length-1]; i++){
+        res.push(i)
+    }
+
+    arr.forEach((el, i) => {
+        if(el === s[i+1]) {
+            res = [0];
+        }
+    })
+
+    return res;
+}
