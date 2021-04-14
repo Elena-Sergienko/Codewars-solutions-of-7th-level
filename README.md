@@ -56,6 +56,7 @@
 ## Spacify filterEvenLengthWords
 ## sPoNgEbOb MeMe
 ## Square Every Digit
+## Strange mathematics
 ## Sum of Odd Cubed Numbers
 ## Sum of two lowest positive integers
 ## The Skiponacci Sequence
