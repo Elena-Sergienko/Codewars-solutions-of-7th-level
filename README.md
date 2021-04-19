@@ -28,6 +28,7 @@
 ## Going to the cinema
 ## Halving Sum
 ## Highest and Lowest
+## Initialize my name
 ## Largest pair sum in array 
 ## Love vs friendship
 ## Max diff
