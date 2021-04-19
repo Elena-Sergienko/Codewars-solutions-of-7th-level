@@ -26,6 +26,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="554d7f46-13dd-4ad9-8926-8c08e48ecefb" name="Default Changelist" comment="Updated Ones and Zeros">
+      <change afterPath="$PROJECT_DIR$/Initialize my name.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -123,6 +124,7 @@
       <workItem from="1618381530726" duration="279000" />
       <workItem from="1618554520152" duration="763000" />
       <workItem from="1618592470898" duration="9000" />
+      <workItem from="1618635638629" duration="773000" />
     </task>
     <task id="LOCAL-00001" summary="Added Two Oldest Ages">
       <created>1602047765917</created>
