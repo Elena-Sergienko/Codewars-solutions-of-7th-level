@@ -40,6 +40,7 @@
 ## Number of Decimal Digits
 ## Number-Star ladder
 ## Ones and Zeros
+## Peak array index
 ## Power of two
 ## Regex validate PIN code
 ## Replace all items
